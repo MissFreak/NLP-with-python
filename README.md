@@ -3,6 +3,7 @@
 
 # Pull Requests
 [How to use Git / GitHub with Jupyter Notebook](https://towardsdatascience.com/how-to-use-git-github-with-jupyter-notebook-7144d6577b44)
+[How to clone, modify, add, and delete files in Git](https://opensource.com/article/18/2/how-clone-modify-add-delete-git-files)
 
 - git commit -m "Adds keyword notebook"
 - git pull
